@@ -1,5 +1,11 @@
 # Hobbit Terra
-Real-life hobbit hole construction in Vasylivka, Samar raion, Dnipro oblast, Ukraine.
+This is not IT project, but real-life hobbit hole construction in Vasylivka, Samar raion, Dnipro oblast, Ukraine.
+
+It will be thematic location - a small piece of Tolkien's universe related to hobbits.
+Not only full scale hobbit hole construction, but terraforming of surrounding area as well - properly designed garden with different plants, benches, fences, swings, maybe a workshop, etc.
+
+The repository destination is to manage big amout of issues related to development.
+
 
 [![Static Badge](https://img.shields.io/badge/Google%20Maps-%234285F4?logo=googlemaps&logoColor=white&link=https://maps.app.goo.gl/2xMy1tCA1hUYD5bP6)](https://maps.app.goo.gl/2xMy1tCA1hUYD5bP6)
 [![Static Badge](https://img.shields.io/badge/YouTube-red?logo=youtube&logoColor=white&link=https://youtube.com/@HobbitTerra)](https://youtube.com/@HobbitTerra)
